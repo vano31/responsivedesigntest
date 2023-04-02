@@ -55,7 +55,7 @@
 
 /* Mobile Styles */
 
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 450px) {
 
     body {
         background-color: #f09a9d;
@@ -66,7 +66,7 @@
 
 /*Tablet Styles*/
 
-@media only screen and (min-width: 401px) and (max-width: 960px) {
+@media only screen and (min-width: 450px) and (max-width: 960px) {
 
     body {
         background-color: #f5cf8e;
